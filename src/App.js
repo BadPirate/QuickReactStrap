@@ -1,13 +1,12 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 import './App.css'
+import { Jumbotron } from 'react-bootstrap'
 
 export default () => (
   <div className="App">
-    <header className="App-header">
-      <p>
-        Edit <code>.env</code> and package.json to get going.
-      </p>
-    </header>
+    <Jumbotron>
+      Edit <code>.env</code> and <code>package.json</code> to get going.
+    </Jumbotron>
   </div>
 )
