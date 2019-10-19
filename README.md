@@ -11,3 +11,4 @@ This project is a basic web app project.  It's based on react starter kit, with 
 ## Included beyond create-react-app
 
 1. `eslint` - I've got this configured the only way that matters (DEATH TO SEMICOLONS!) but feel free to mess it up.
+2. `react-bootstrap` - Because everything looks better with a bit of strap
